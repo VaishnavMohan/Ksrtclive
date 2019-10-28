@@ -1,2 +1,2 @@
 # Ksrtclive.
-Live Tracking of KSRTC Buses . A demo app.
+Live Tracking of KSRTC Buses . A demo app
